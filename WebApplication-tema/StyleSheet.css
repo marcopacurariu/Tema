@@ -1,0 +1,26 @@
+﻿body {
+    background-color: white;
+    text-align: center;
+}
+
+#abc {
+    color: aqua;
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+#cde {
+    border: none;
+    border-collapse: collapse;
+}
+
+#image {
+    height: 20px;
+}
+
+#italic {
+    font-style: italic;
+}
